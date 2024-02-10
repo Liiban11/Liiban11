@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Liiban11
 - 👀 I’m interested in Cloud computing & Cybersecurity
 - 🌱 I’m currently learning AWS Cloud
-- 📫 How to reach me Liibanadaan@gmail.com
 - ⚡ Fun fact: I do photography as well :)
 
 <!---
